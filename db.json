@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "club-triton-remote",
+      "category": "web",
+      "title": "The Club Triton (Remote)",
+      "headingLevel": "h2",
+      "dateIso": "2025-04-01",
+      "dateLabel": "04/2025 - 06/2025",
+      "description": "Remote dataset: a web-based card game modeled after Card-Jitsu.",
+      "imageSrc": "https://placehold.co/400x400?text=Club+Triton+Remote",
+      "imageAlt": "Remote screenshot of The Club Triton",
+      "demoUrl": "https://cse110-sp25-group13.github.io/The_club_triton/pages/home-page.html",
+      "repoUrl": "https://github.com/cse110-sp25-group13/The_club_triton",
+      "blogUrl": "",
+      "techStack": ["HTML5", "CSS", "Vanilla JS"],
+      "techOpen": true
+    },
+    {
+      "id": "amazon-hmm-remote",
+      "category": "ml",
+      "title": "Amazon Stock Price Predictor (Remote)",
+      "headingLevel": "h3",
+      "dateIso": "2025-06-01",
+      "dateLabel": "06/2025",
+      "description": "Remote dataset: HMM over daily bearish/bullish signals for volatility analysis.",
+      "imageSrc": "https://placehold.co/400x400?text=Amazon+HMM+Remote",
+      "imageAlt": "Remote Amazon dataset image",
+      "demoUrl": "",
+      "repoUrl": "https://github.com/ZackRoland/CSE150-FinalProject",
+      "blogUrl": "",
+      "techStack": ["Python", "NumPy", "Matplotlib"],
+      "techOpen": false
+    }
+  ]
+}
